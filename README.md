@@ -1,3 +1,4 @@
+![coleco-4229](https://user-images.githubusercontent.com/13243510/109350807-2775af80-7846-11eb-9120-28430713e9a6.png)
 ### Hi there 👋
 
 <!--
