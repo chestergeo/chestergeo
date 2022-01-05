@@ -1,3 +1,5 @@
+Here is an image tag: <img src="play_72dp.png#foo" />
+
 Look ma, no tables and it still breaks: ![play_72dp](play_72dp.png#foobar)
 
 | how | file |
